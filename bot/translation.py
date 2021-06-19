@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-This Bot Belongs to @msraj_movies for searching movies 🔥🔥😝
+This Bot Belongs to @msraj_movies !!! Use Our Group @msraj_movies_chat for searching movies 🔥🔥😝
 
 For More Details Click Help Button Below..
 @BabyOptimusPrime
