@@ -40,6 +40,10 @@ async def start(bot, update):
                                 (
                                     '🃏 CHANNEL', url="https://t.me/msraj_movies"
                                 )
+                            InlineKeyboardButton                                 
+                            (
+                                '🃏 CHANNEL', url="https://t.me/msraj_movies"                               
+                            )
                         ]
                     ]
                 )
